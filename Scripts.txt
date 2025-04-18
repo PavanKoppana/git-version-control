@@ -1,0 +1,20 @@
+1)git clone https://github.com/user/repo.git
+    -> To get the code base into local.
+
+2) git branch -a
+    -> To view all local and remote branches.
+
+3) git checkout brachname
+    -> To switch branch which is existing.
+
+4) git checkout -b newbranchname
+    -> To create and switch to a new branch.
+
+5) git status 
+    -> To see modified, added, or untracked files.
+
+6) git add filename.txt
+    -> Get a specific changed file/files ready to commit.
+
+7) git add .
+    -> Get all the changed files ready to commit.
