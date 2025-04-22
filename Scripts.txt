@@ -24,3 +24,6 @@
 
 9) git add .
     -> Get all the changed files ready to commit.
+
+10) git commit -m "Commit message"
+    -> To commit the changes of existing branch in local to push it to remote.(Mandatory to push the changes from local to remove, including commit message).
