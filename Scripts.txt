@@ -1,1 +1,30 @@
-pavan koppana
+
+1)git clone https://github.com/user/repo.git
+    -> To get the code base into local.
+
+2) git branch -a
+    -> To view all local and remote branches.
+
+3) git checkout brachname
+    -> To switch branch which is existing.
+
+4) git checkout -b newbranchname
+    -> To create and switch to a new branch.
+
+5) git push origin newbranchname
+    -> To push the newly created branch from local to remote.
+
+6) git push --set-upstream origin develop
+    -> Set the newly created branch to Track Remote Automatically
+
+7) git status
+    -> To see modified, added, or untracked files.
+
+8) git add filename.txt
+    -> Get a specific changed file/files ready to commit.
+
+9) git add .
+    -> Get all the changed files ready to commit.
+
+10) git commit -m "Commit message"
+    -> To commit the changes of existing branch in local to push it to remote.(Mandatory to push the changes from local to remove, including commit message).
