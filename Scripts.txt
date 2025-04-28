@@ -5,13 +5,13 @@
 2) git branch -a
     -> To view all local and remote branches.
 
-3) git checkout brachname
+3) git checkout branch name
     -> To switch branch which is existing.
 
-4) git checkout -b newbranchname
+4) git checkout -b new branch name
     -> To create and switch to a new branch.
 
-5) git push origin newbranchname
+5) git push origin new branch name
     -> To push the newly created branch from local to remote.
 
 6) git push --set-upstream origin develop
@@ -29,5 +29,5 @@
 10) git commit -m "Commit message"
     -> To commit the changes of existing branch in local to push it to remote.(Mandatory to push the changes from local to remove, including commit message).
 
-11) git push origin branchname
+11) git push origin branch name
     -> To push the updated changes to GitHub.

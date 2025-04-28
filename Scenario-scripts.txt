@@ -1,0 +1,6 @@
+1) if you have made some changes in local and feel like resetting the whole code to match the current remote code.
+   you can follow the below steps.
+
+   -> git checkout branch name // Make sure you are on the same branch in your local that you want to reset
+   -> git fetch origin // Fetch the latest code from the remote
+   -> git reset --hard origin/branch name
