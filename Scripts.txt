@@ -28,3 +28,6 @@
 
 10) git commit -m "Commit message"
     -> To commit the changes of existing branch in local to push it to remote.(Mandatory to push the changes from local to remove, including commit message).
+
+11) git push origin branchname
+    -> To push the updated changes to GitHub.
